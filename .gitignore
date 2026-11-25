@@ -1,0 +1,19 @@
+# Private configuration and credentials
+.env
+.env.*
+config.php
+portfolio-private/
+
+# Deployment copies and temporary files
+/deploy-ready/
+*.backup
+*.bak
+test.html
+
+# Database exports
+*.sql
+*.sql.gz
+
+# Editor and operating system files
+.vscode/
+.DS_Store
